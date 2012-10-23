@@ -1,11 +1,15 @@
 Changes
+Changes-3.0.md
+Changes-4.0.md
+Changes-4.1.md
 LICENSE
 MANIFEST
+MANIFEST.SKIP
 META.json
 META.yml
 Makefile.PL
 README
-devel/tapper-github.gmf
+Starterpage.md
 dist.ini
 lib/Tapper.pm
 t/release-eol.t

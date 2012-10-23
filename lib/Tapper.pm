@@ -1,11 +1,13 @@
 use strict;
 use warnings;
 package Tapper;
+# git description: v4.0-14-gbec3ceb
+
 BEGIN {
   $Tapper::AUTHORITY = 'cpan:AMD';
 }
 {
-  $Tapper::VERSION = '4.0';
+  $Tapper::VERSION = '4.1';
 }
 # ABSTRACT: A flexible and open test infrastructure
 
