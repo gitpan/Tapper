@@ -1,13 +1,13 @@
 use strict;
 use warnings;
 package Tapper;
-# git description: v4.0-14-gbec3ceb
+# git description: v4.1-2-gf3df0da
 
 BEGIN {
-  $Tapper::AUTHORITY = 'cpan:AMD';
+  $Tapper::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::VERSION = '4.1';
+  $Tapper::VERSION = '4.1.1';
 }
 # ABSTRACT: A flexible and open test infrastructure
 
@@ -27,7 +27,7 @@ Tapper - A flexible and open test infrastructure
 
 Tapper is a modular, flexible and open test infrastructure.
 
-It's only primary assumption is the ubiquitous use of the B<Test
+Its only primary assumption is the ubiquitous use of the B<Test
 Anything Protocol> (TAP). Internally it is based on technology known
 from the CPAN testing infrastructure, extending it with automation and
 advanced querying.
